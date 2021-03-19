@@ -1,5 +1,5 @@
 ---
-question: Hello, W orld!
+question: Hello,World!
 buttons:
   - Exit: exit
 mandatory: True
